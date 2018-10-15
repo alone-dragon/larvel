@@ -1,0 +1,13 @@
+{
+    "name": "alone-dragon/larvel",
+    "description": "project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "alone-dragon",
+            "email": "long_ear@163.com"
+        }
+    ],
+    "require": {}
+}
